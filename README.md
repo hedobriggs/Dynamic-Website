@@ -1,2 +1,8 @@
 # Dynamic-Website
-This contains the steps taken to lauch a dynamic website in AWS. All files, Deployment script and Migration scripts are inclided. PS, some values have been redacted to privacy reasons.
+This contains the steps taken to lauch a dynamic website (SHOPWISE) in AWS. 
+The following are required for a msuccessful launch:
+* Website files 
+* Deployment script
+* Migration script 
+
+Some values have been redacted for privacy reasons.
