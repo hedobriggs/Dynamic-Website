@@ -6,7 +6,7 @@
 
 # Set basic environment variables
 export S3_URI='###/V1__shopwise.sql'
-export RDS_ENDPOINT='nna-shopwise-dbase.c6pgmu6gedik.us-east-1.rds.amazonaws.com'
+export RDS_ENDPOINT='###.us-east-1.rds.amazonaws.com'
 export FLYWAY_VERSION='11.15.0'
 export RDS_DB_NAME='applicationdb'
 export SECRET_NAME=###'
